@@ -1,6 +1,6 @@
-name: dp-rebalance
+name: dp-bellman-portfolio
 dependencies:
-  - python=3.11
+  - python=3.9
   - numpy
   - pandas
   - matplotlib
